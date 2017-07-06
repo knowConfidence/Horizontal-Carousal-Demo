@@ -1,0 +1,150 @@
+.container_left{
+	display: flex;
+	flex-wrap: wrap;
+
+	justify-content: flex-start;
+}
+
+.container_right{
+	display: flex;
+	flex-wrap: wrap;
+
+	justify-content: flex-end;
+}
+
+.container_center{
+	display: flex;
+	flex-wrap: wrap;
+
+	justify-content: center;
+}
+
+.title{
+    font-size:100%;
+    letter-spacing:1px;
+
+    line-height: 1.6875;
+    font-family: Georgia;
+}
+.subtitle{
+	font-size:90%;
+    letter-spacing:1px;
+
+    line-height: 1.6875;
+    font-family: Georgia;
+}
+.text{
+	font-size: 80%;
+	letter-spacing: 1px;
+
+	line-height: 1.6875;
+	font-family: Georgia;
+}
+.subText{
+    font-size: 70%;
+    letter-spacing: 1px;
+
+    line-height: 1.6875;
+    font-family: Georgia;
+}
+
+.clamp{
+	padding: 0;
+}
+
+.frame{
+	padding: 10px 10px;
+}
+
+/* Resize text as screen is resized */
+@media only screen and (max-width:400px){
+    .title{font-size:50%;}
+    .subtitle{font-size: 40%;}
+    .text{font-size: 30%;}
+    .subtext{font-size: 20%;};
+}
+@media only screen and (max-width:800px){
+    .title{font-size:70%;}
+    .subtitle{font-size: 60%;}
+    .text{font-size: 50%;}
+    .subtext{font-size: 40%;}
+}
+@media only screen and (min-width:1100px){
+    .title{font-size:100%;}
+    .subtitle{font-size: 90%;}
+    .text{font-size: 80%;}
+    .subtext{font-size: 70%;};
+    /*.wrap{max-width:770px;}*/
+}
+
+html, body{
+    font-size: 100%;
+    line-height: 1.6875;
+    font-family: Georgia;
+    background-color: lightgrey;
+}
+
+.carousal{
+    /*background-color: rgba(100, 150, 100, 1);*/
+    white-space: nowrap;
+    overflow-x: hidden;
+}
+.cards{
+    position: relative;
+}
+.card{
+    position: relative;
+    display: inline-block;
+    width: 150px;
+
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+
+.controls{
+    position: absolute;
+    left: 0px;
+    z-index: 1;
+
+    top:50%;
+    transform: translateY(-50%);
+}
+.button{
+    width: 50px;
+    height: 50px;
+    background-color: rgba(200, 200, 0, .5);
+
+}
+.back{
+    float: left;
+}
+.forward{
+    float: right;
+}
+
+.card_info{
+    white-space: pre-wrap;
+    background-color: white;
+}
+
+.card_artist{
+    display: flex;
+    align-items: center;
+}
+
+.card_author{
+    padding-left: 5px;
+}
+
+.card_profile_image{
+    border-radius: 80%;
+}
+
+.card_stats{
+}
+.f_left{
+    float: left;
+}
+.f_right{
+    float: right;
+}

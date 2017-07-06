@@ -1,0 +1,91 @@
+[{
+	"mainImg"	: "images/bezaliel angel of shadow.jpg",
+	"cardName"	: "Bezaliel - angel of shadow", 
+	"source"	: "Google images",
+	"author"	: "Peter Mohrbacher",
+	"category"	: "Concept",
+	"pins"		: 343,
+	"likes"		: 11
+},
+{
+	"mainImg"	: "images/angelarium.jpg",
+	"cardName"	: "Angelarium: Book of Emaneti", 
+	"source"	: "Google images",
+	"author"	: "Hoàng Sơn",
+	"category"	: "Concept",
+	"pins"		: 231,
+	"likes"		: 6
+},
+{
+	"mainImg"	: "images/Orc concept.jpg",
+	"cardName"	: "Orc concept", 
+	"source"	: "Google images",
+	"author"	: "ATEC",
+	"category"	: "Concept",
+	"pins"		: 114,
+	"likes"		: 10
+},
+{
+	"mainImg"	: "images/Great Glacier.jpg",
+	"cardName"	: "Great Glacier", 
+	"source"	: "Google images",
+	"author"	: "Jorden Grimmer",
+	"category"	: "Concept",
+	"pins"		: 46,
+	"likes"		: 0
+},
+{
+	"mainImg"	: "images/Enchanted.jpg",
+	"cardName"	: "Enchanted Forest", 
+	"source"	: "Google images",
+	"author"	: "Gerezon",
+	"category"	: "Concept",
+	"pins"		: 675,
+	"likes"		: 46
+},
+{
+	"mainImg"	: "images/grand chains.jpg",
+	"cardName"	: "Grand Chains", 
+	"source"	: "Google images",
+	"author"	: "Ling Xiang",
+	"category"	: "Concept",
+	"pins"		: 250,
+	"likes"		: 25
+},
+{
+	"mainImg"	: "images/Space Marine.jpg",
+	"cardName"	: "Space Marine", 
+	"source"	: "Google images",
+	"author"	: "Shuohan zhou",
+	"category"	: "Concept",
+	"pins"		: 114,
+	"likes"		: 3
+},
+{
+	"mainImg"	: "images/Space Engineer.jpg",
+	"cardName"	: "Space Engineer", 
+	"source"	: "Google images",
+	"author"	: "Fred Augis",
+	"category"	: "Concept",
+	"pins"		: 67,
+	"likes"		: 5
+},
+{
+	"mainImg"	: "images/The Rouge.jpg",
+	"cardName"	: "The Rouge", 
+	"source"	: "Google images",
+	"author"	: "Brink",
+	"category"	: "Concept",
+	"pins"		: 88,
+	"likes"		: 0
+},
+{
+	"mainImg"	: "images/Viking Concepts.jpg",
+	"cardName"	: "Viking Designs", 
+	"source"	: "Google images",
+	"author"	: "Sega",
+	"category"	: "Concept",
+	"pins"		: 43,
+	"likes"		: 2
+}
+]
